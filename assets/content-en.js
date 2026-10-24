@@ -1,5 +1,5 @@
 /* ============================================================
-   EM course training · Math 5 (Math for School, Level 5) [2051] · ENGLISH (base version)
+   EM course training · Math 5 (Math for School, Level 5) [2218] · ENGLISH (base version)
    For the Turkish version: copy this file as content-tr.js and change lang to 'tr'.
    Translate only the text inside quotes / backticks. Keep HTML tags, {placeholders},
    keys (t:, id:, a:…), links, file names and the 'yes' / 'no' answer keys unchanged.
@@ -65,12 +65,12 @@ COURSE.ui = {
 
 /* ---------------- Course ---------------- */
 COURSE.id = 'math5';
-COURSE.code = '2051';
+COURSE.code = '2218';
 COURSE.title = 'Math 5';
 COURSE.color = '#0EA5E9';
 
 COURSE.home = {
-  kicker: '🎓 Course training · [2051]',
+  kicker: '🎓 Course training · [2218]',
   title: 'Math <span class="hl">Level 5</span>',
   lead: 'Math Adventures, for students aged 9–11: every module is a real-life case — designing a park, running a school fair, cooking from a recipe — and students discover the math they need along the way. Two modules: the course content and the technical side of the lessons.',
   facts: [
@@ -139,7 +139,7 @@ COURSE.modules = [
       ]},
       { id:'bo', e:'📘', title:'Review the lessons in Backoffice', blocks:[
         { t:'p', html:'Before the check, open the course in Backoffice and read through the four lessons at your own pace — the activity cards and the Teacher Notes are all there. Nothing is timed.' },
-        { t:'link', href:'https://bo.kodland.org/courses/2051', e:'📘', title:'Open the course in Backoffice', small:'[2051] Math 5 — the lessons and their Teacher Notes' },
+        { t:'link', href:'https://bo.kodland.org/courses/2218', e:'📘', title:'Open the course in Backoffice', small:'[2218] Math 5 — the lessons and their Teacher Notes' },
         { t:'callout', kind:'warn', e:'🔄', html:'The lesson content in Backoffice will keep being updated with feedback from students and tutors. Whenever something changes, you’ll be notified in advance so you can prepare the lesson.' }
       ]}
     ]},
